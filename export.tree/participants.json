@@ -1,0 +1,16 @@
+{
+  "age": {
+    "LongName": "age",
+    "Units": "years"
+  },
+
+  "gender": {
+    "LongName": "gender",
+    "Levels": {
+      "F": "Female",
+      "M": "Male"
+    }
+  }
+
+  
+}
