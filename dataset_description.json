@@ -1,11 +1,13 @@
-{"Name": "Wanglab_vmPFC", 
-
-"Authors":[
-	"Dong-Hui Song", 
-	"Si-Yi Li",
-	"Ming-Xue Fu",
-	"Guo-Qiu Chen",
-	"Yin Wang"
-],
-
-"BIDSVersion": "1.0.2"}
+{
+    "Name": "Wanglab_vmPFC",
+    "Authors": [
+        "Dong-Hui Song",
+        "Si-Yi Li",
+        "Ming-Xue Fu",
+        "Guo-Qiu Chen",
+        "Yin Wang"
+    ],
+    "BIDSVersion": "1.0.2",
+    "DatasetDOI": "doi:10.18112/openneuro.ds009062.v1.0.1",
+    "License": "CC0"
+}
